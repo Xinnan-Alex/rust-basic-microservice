@@ -1,6 +1,6 @@
 # rust-basic-microservice
 
-Basic CRUD microservices built with Rust. ORM used is Diesel and database used is Postgresql.
+Basic CRUD microservices built with Rust. ORM used is Diesel and database used is Postgresql.2
 
 ## Crates used:
 - Url 
