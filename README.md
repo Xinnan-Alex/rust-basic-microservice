@@ -13,3 +13,6 @@ Basic CRUD microservices built with Rust. ORM used is Diesel and database used i
 
 Run microservice with this:
 `DATABASE_URL="postgresql://<username>:<password>@localhost" RUST_LOG="microservice=debug" cargo run`
+
+Todo:
+- Implement this into docker
